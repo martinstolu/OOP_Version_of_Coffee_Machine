@@ -19,9 +19,13 @@ off: Shut down the machine
 Project Structure
 
 main.py              # Entry point: handles user input and orchestrates the machine
+
 coffee_maker.py      # Defines the CoffeeMaker class for managing ingredients
+
 money_machine.py     # Handles payment and coin processing
+
 menu.py              # Contains Menu and MenuItem classes for drink data
+
 
 🎯 Concepts 
 Object-Oriented Programming (Classes, Methods, Encapsulation)
