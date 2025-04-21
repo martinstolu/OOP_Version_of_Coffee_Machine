@@ -1,7 +1,7 @@
-☕ OOP Coffee Machine
+**☕ OOP Coffee Machine**
 This project simulates a virtual coffee machine built using Object-Oriented Programming (OOP) principles in Python. The machine allows users to order drinks like espresso, latte, and cappuccino, while managing resources and processing virtual coins.
 
-🔧 Features
+**🔧 Features**
 Choose from a menu of drinks: espresso, latte, or cappuccino
 
 Processes coins: quarters, dimes, nickels, and pennies
@@ -16,7 +16,7 @@ report: View remaining resources and money earned
 
 off: Shut down the machine
 
-Project Structure
+**Project Structure**
 
 main.py              # Entry point: handles user input and orchestrates the machine
 
@@ -27,7 +27,7 @@ money_machine.py     # Handles payment and coin processing
 menu.py              # Contains Menu and MenuItem classes for drink data
 
 
-🎯 Concepts 
+**🎯 Concepts **
 Object-Oriented Programming (Classes, Methods, Encapsulation)
 
 Clean code separation across modules
